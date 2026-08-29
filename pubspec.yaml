@@ -5,6 +5,12 @@ homepage: https://github.com/chrisbinsunny/blurhashx
 repository: https://github.com/chrisbinsunny/blurhashx
 issue_tracker: https://github.com/chrisbinsunny/blurhashx/issues
 
+maintainer: Chrisbin (@chrisbinsunny)
+
+screenshots:
+  - description: 'Content preview as blurred buffer.'
+    path: assets/blur.jpg
+
 topics:
   - blurhash
   - placeholder
