@@ -1,0 +1,6 @@
+# Files and directories ignored when publishing to pub.dev
+.dart_tool/
+build/
+.idea/
+*.iml
+.DS_Store

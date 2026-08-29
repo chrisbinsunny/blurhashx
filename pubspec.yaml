@@ -1,0 +1,26 @@
+name: blurhashx
+description: A high-performance Flutter implementation of the BlurHash algorithm with native Skia image decoding. Built with ❤️ for the Tethxr app.
+version: 1.0.0
+homepage: https://github.com/chrisbinsunny/blurhashx
+repository: https://github.com/chrisbinsunny/blurhashx
+issue_tracker: https://github.com/chrisbinsunny/blurhashx/issues
+
+topics:
+  - blurhash
+  - placeholder
+  - image
+  - performance
+  - graphics
+
+environment:
+  sdk: '>=3.0.0 <4.0.0'
+  flutter: '>=3.0.0'
+
+dependencies:
+  flutter:
+    sdk: flutter
+
+dev_dependencies:
+  flutter_test:
+    sdk: flutter
+  flutter_lints: ^3.0.0
