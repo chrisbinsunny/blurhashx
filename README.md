@@ -5,7 +5,11 @@
 
 A high-performance implementation of the [BlurHash](https://blurha.sh/) algorithm with native hardware-accelerated image decoding and 100% NPM specification compatibility. **Built with ❤️ for the [Tethxr](https://tethxr.com) app.**
 
-BlurHash transforms images into compact, human-readable strings (typically 20–30 characters) that decode into smooth, beautiful blurred placeholder gradients.
+[Blurhash](https://blurha.sh) transforms images into compact, human-readable strings (typically 20–30 characters) that decode into smooth, beautiful blurred placeholder gradients while waiting for full images to load.
+
+<p align="center">
+  <img src="assets/example.png" alt="BlurHashX Overview" width="100%" />
+</p>
 
 ---
 
